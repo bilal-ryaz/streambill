@@ -1,4 +1,4 @@
-import { AppState, BusinessProfile, InvoiceData, Package, PaymentMethod } from '../types';
+import { AppState, InvoiceData } from '../types';
 
 const STORAGE_KEY_SETTINGS = 'streambill_settings';
 const STORAGE_KEY_DRAFT = 'streambill_draft';
